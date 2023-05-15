@@ -52,7 +52,6 @@
 				69CEEE2B04B532FFCADBBC89 /* Pods-UberLocationSearch.debug.xcconfig */,
 				1C5C7356B6C2CFAB50AF44D8 /* Pods-UberLocationSearch.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -88,12 +87,12 @@
 				BA1F2A722A12426A00457E44 /* AppDelegate.swift */,
 				BA1F2A742A12426A00457E44 /* SceneDelegate.swift */,
 				BA1F2A762A12426A00457E44 /* ViewController.swift */,
-				BA1F2A782A12426A00457E44 /* Main.storyboard */,
-				BA1F2A7B2A12426C00457E44 /* Assets.xcassets */,
-				BA1F2A7D2A12426C00457E44 /* LaunchScreen.storyboard */,
-				BA1F2A802A12426C00457E44 /* Info.plist */,
 				BA1F2A862A12428E00457E44 /* LocationManager.swift */,
 				BA1F2A882A1242AE00457E44 /* SearchViewController.swift */,
+				BA1F2A7B2A12426C00457E44 /* Assets.xcassets */,
+				BA1F2A782A12426A00457E44 /* Main.storyboard */,
+				BA1F2A7D2A12426C00457E44 /* LaunchScreen.storyboard */,
+				BA1F2A802A12426C00457E44 /* Info.plist */,
 			);
 			path = UberLocationSearch;
 			sourceTree = "<group>";
